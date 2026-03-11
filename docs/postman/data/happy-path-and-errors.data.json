@@ -1,0 +1,44 @@
+[
+  {
+    "suffix": "1001",
+    "customerIdentificationBase": "1032456789",
+    "customerName": "Maria Gonzalez",
+    "customerEmailBase": "maria.gonzalez",
+    "customerPhone": "+57 310 456 7890",
+    "customerAddress": "Cra 15 #93-47, Bogota",
+    "productName": "Monitor LG 27 4K",
+    "productDescription": "Monitor IPS UHD para trabajo y diseno",
+    "productPrice": "1299.90",
+    "productStock": "15",
+    "orderQuantity": "2",
+    "insufficientStockQuantity": "999"
+  },
+  {
+    "suffix": "1002",
+    "customerIdentificationBase": "1098765432",
+    "customerName": "Carlos Ramirez",
+    "customerEmailBase": "carlos.ramirez",
+    "customerPhone": "+57 311 222 3344",
+    "customerAddress": "Cl 72 #10-34, Medellin",
+    "productName": "Portatil Lenovo ThinkPad E14",
+    "productDescription": "Laptop i5 16GB RAM 512GB SSD",
+    "productPrice": "3499.00",
+    "productStock": "8",
+    "orderQuantity": "1",
+    "insufficientStockQuantity": "500"
+  },
+  {
+    "suffix": "1003",
+    "customerIdentificationBase": "1122334455",
+    "customerName": "Ana Torres",
+    "customerEmailBase": "ana.torres",
+    "customerPhone": "+57 320 998 7766",
+    "customerAddress": "Av Siempre Viva 742, Cali",
+    "productName": "Teclado Mecanico Redragon K552",
+    "productDescription": "Teclado mecanico compacto switches blue",
+    "productPrice": "279.50",
+    "productStock": "20",
+    "orderQuantity": "3",
+    "insufficientStockQuantity": "1000"
+  }
+]
